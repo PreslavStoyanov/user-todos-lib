@@ -1,0 +1,6 @@
+[submodule "user-todos-frontend"]
+	path = user-todos-frontend
+	url = https://github.com/PreslavStoyanov/user-todos-frontend.git
+[submodule "user-todos"]
+	path = user-todos
+	url = https://github.com/PreslavStoyanov/user-todos.git
